@@ -32,7 +32,7 @@ This project is part of my learning journey in Python and data science 🚀.
 ## ⚙ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/investment-profit-calculator.git
+   git clone https://github.com/faroukhosssam/investment-profit-calculator.git
    cd investment-profit-calculator
    python investment_calculator.py
    
